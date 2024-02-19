@@ -6,7 +6,7 @@
 
 <p>👯 Interested to collaborate on <b>Dynamic Projects in the field of AI, ML, DL, Web Apps & Softwares</b> </p>
 
-<p>👨‍💻 All, my minor projects are available at</p>[https://github.com/farhaddubey/](https://github.com/farhaddubey/)
+<p>👨‍💻 All, my minor projects are available at <b>https://github.com/farhaddubey/</b></p>
 
 <p>💬 Interested to be consoled about <b>Technology, Innovations, Researches, Programming World etc.</b> </p>
 
