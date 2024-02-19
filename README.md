@@ -1,24 +1,23 @@
-<h1 align="left">Hlw Audience!👋, myself Farhad Dubey</h1>
+<h2 align="left">Hlw Audience!👋, myself Farhad Dubey</h2>
 
 <h3 align="left">Scripting the Programming World | Passionate about optimized Code with Efficient Algorithms | Insane programmer | Let's build something extraordinary !</h3>
     - 🔭 Currently partially engaged with [TDIL Consultancy Services](https://www.tdilcs.live)
 
-    - 👯 Interested to collaborate on ** Dynamic Projects in the field of AI, ML, DL, Web Apps & Softwares **
+<p>👯 Interested to collaborate on ** Dynamic Projects in the field of AI, ML, DL, Web Apps & Softwares **</p>
 
-    - 👨‍💻 All, my minor projects are available at[https://github.com/farhaddubey/](https://github.com/farhaddubey/)
+<p>👨‍💻 All, my minor projects are available at[https://github.com/farhaddubey/](https://github.com/farhaddubey/)</p>
 
-    - 💬 Console me about ** Technology, Innovations, Researches, Programming World etc.**
+<p>💬 Console me about ** Technology, Innovations, Researches, Programming World etc.**</p>
 
-    - 📫 Contact me regarding software projects via ** farhaddubey003@gmail.com **
+<p>📫 Contact me regarding software projects via ** farhaddubey003@gmail.com **</p>
 
-    - ⚡ Fun fact ** Flirty, Friendly, Co - operative, Rude, Personality with Creative & Dynamic Attitude **
+<p>⚡ Fun fact ** Flirty, Friendly, Co - operative, Rude, Personality with Creative & Dynamic Attitude **</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhaddubey" height="40" margin="10"/></a>
-<a href="https://www.youtube.com/c/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farhaddubey" height="40" margin="10"/></a>
-<a href="https://codeforces.com/profile/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farhaddubey" height="40" margin="10"/></a>
-<a href="https://www.leetcode.com/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhaddubey" height="40" margin="10"/></a>
+<a href="https://linkedin.com/in/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhaddubey" width="40" height="40" padding="20"/></a>
+<a href="https://www.youtube.com/c/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farhaddubey" width="40" height="40" padding="20"/></a>
+<a href="https://www.leetcode.com/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhaddubey" width="40" height="40" padding="20"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,31 +35,12 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true" />
 </picture>
-
-| `aura_dark` ![aura_dark][aura_dark] | `panda` ![panda][panda] | `noctis_minimus` ![noctis_minimus][noctis_minimus] |
-
-| :--: | :--: | :--: |
-| `default_repocard` ![default_repocard][default_repocard_repo] | `transparent` ![transparent][transparent_repo] | `shadow_red` ![shadow_red][shadow_red_repo] |
-
-| `chartreuse-dark` ![chartreuse-dark][chartreuse-dark_repo] | `nord` ![nord][nord_repo] | `gotham` ![gotham][gotham_repo] |
-| `material-palenight` ![material-palenight][material-palenight_repo] | `graywhite` ![graywhite][graywhite_repo] | `vision-friendly-dark` ![vision-friendly-dark][vision-friendly-dark_repo] |
-| `ayu-mirage` ![ayu-mirage][ayu-mirage_repo] | `midnight-purple` ![midnight-purple][midnight-purple_repo] | `calm` ![calm][calm_repo] |
-| `flag-india` ![flag-india][flag-india_repo] | `omni` ![omni][omni_repo] | `react` ![react][react_repo] |
-| `jolly` ![jolly][jolly_repo] | `maroongold` ![maroongold][maroongold_repo] | `yeblu` ![yeblu][yeblu_repo] |
-| `blueberry` ![blueberry][blueberry_repo] | `slateorange` ![slateorange][slateorange_repo] | `kacho_ga` ![kacho_ga][kacho_ga_repo] |
-| `outrun` ![outrun][outrun_repo] | `ocean_dark` ![ocean_dark][ocean_dark_repo] | `city_lights` ![city_lights][city_lights_repo] |
-| `github_dark` ![github_dark][github_dark_repo] | `github_dark_dimmed` ![github_dark_dimmed][github_dark_dimmed_repo] | `discord_old_blurple` ![discord_old_blurple][discord_old_blurple_repo] |
-| `aura_dark` ![aura_dark][aura_dark_repo] | `panda` ![panda][panda_repo] | `noctis_minimus` ![noctis_minimus][noctis_minimus_repo] |
-
-[chartreuse-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=chartreuse-dark
-
-
