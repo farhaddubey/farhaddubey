@@ -6,11 +6,11 @@
 
 <p>👯 Interested to collaborate on <b>Dynamic Projects in the field of AI, ML, DL, Web Apps & Softwares</b> </p>
 
-<p>👨‍💻 All, my minor projects are available at[https://github.com/farhaddubey/](https://github.com/farhaddubey/)</p>
+<p>👨‍💻 All, my minor projects are available at</p>[https://github.com/farhaddubey/](https://github.com/farhaddubey/)
 
-<p>💬 Intereted to be consoled about <b>Technology, Innovations, Researches, Programming World etc.</b> </p>
+<p>💬 Interested to be consoled about <b>Technology, Innovations, Researches, Programming World etc.</b> </p>
 
-<p>📫 Contact me regarding software projects via **farhaddubey003@gmail.com**</p>
+<p>📫 Contact me regarding software projects via <b>farhaddubey003@gmail.com</b></p>
 
 <p>⚡ Funny👻 facts👻 about me👻: <b>Flirty, Funny, Friendly, a chocolate Hero, Co - operative, Rude, overall Personality with Creative & Dynamic Attitude</b></p>
 
