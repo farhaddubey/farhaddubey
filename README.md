@@ -105,5 +105,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 </picture>
-![Snake animation]
-(https://github.com/farhaddubey/farhaddubey/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/farhaddubey/farhaddubey/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+![](https://komarev.com/ghpvc/?username=farhaddubey0&color=blueviolet&style=flat-square)
+   </div>
