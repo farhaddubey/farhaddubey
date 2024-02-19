@@ -8,11 +8,11 @@
 
 <p>👨‍💻 All, my minor projects are available at[https://github.com/farhaddubey/](https://github.com/farhaddubey/)</p>
 
-<p>💬 Console me about <b>Technology, Innovations, Researches, Programming World etc.</b> </p>
+<p>💬 Intereted to be consoled about <b>Technology, Innovations, Researches, Programming World etc.</b> </p>
 
 <p>📫 Contact me regarding software projects via **farhaddubey003@gmail.com**</p>
 
-<p>⚡ Fun fact <b>Flirty, Friendly, Co - operative, Rude, Personality with Creative & Dynamic Attitude</b></p>
+<p>⚡ Fun👻 facts👻 about me👻: <b>Flirty, Friendly, Co - operative, Rude, Personality with Creative & Dynamic Attitude</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
