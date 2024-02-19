@@ -1,19 +1,19 @@
-<h1 align="center">Hlw Audience👋, myself Farhad Dubey</h1>
-<h3 align="center">Scripting the Programming World | Passionate about optimized Code with Efficient Algorithms | Insane programmer | Let's build something extraordinary !</h3>
+<h1 align="left">Hlw Audience!👋, myself Farhad Dubey</h1>
+
+<h3 align="left">Scripting the Programming World | Passionate about optimized Code with Efficient Algorithms | Insane programmer | Let's build something extraordinary !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhaddubey&label=Profile%20views&color=0e75b6&style=flat" alt="farhaddubey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhaddubey" alt="farhaddubey" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/farhaddubey" target="blank"><img src="https://img.shields.io/twitter/follow/farhaddubey?logo=twitter&style=for-the-badge" alt="farhaddubey" /></a> </p>
 
     - 🔭 Currently partially engaged with [TDIL Consultancy Services](https://www.tdilcs.live)
 
-        - 👯 Interested to collaborate on ** Dynamic Projects in the field of AI, ML, DL, Web Apps & Softwares **
+    - 👯 Interested to collaborate on ** Dynamic Projects in the field of AI, ML, DL, Web Apps & Softwares **
 
-        - 👨‍💻 All, my minor projects are available at[https://github.com/farhaddubey/](https://github.com/farhaddubey/)
+    - 👨‍💻 All, my minor projects are available at[https://github.com/farhaddubey/](https://github.com/farhaddubey/)
 
-        - 💬 Console me about ** Technology, Innovations, Researches, Programming World etc.**
+    - 💬 Console me about ** Technology, Innovations, Researches, Programming World etc.**
 
     - 📫 Contact me regarding software projects via ** farhaddubey003@gmail.com **
 
@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhaddubey" width="52" height="40" /></a>
-<a href="https://www.youtube.com/c/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farhaddubey" width="52" height="40" /></a>
-<a href="https://codeforces.com/profile/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farhaddubey" width="52" height="40" /></a>
-<a href="https://www.leetcode.com/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhaddubey" width="52" height="40" /></a>
+<a href="https://linkedin.com/in/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhaddubey" width="52" height="40" margin="10"/></a>
+<a href="https://www.youtube.com/c/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farhaddubey" width="40" height="40" margin="10"/></a>
+<a href="https://codeforces.com/profile/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farhaddubey" width="40" height="40" margin="10"/></a>
+<a href="https://www.leetcode.com/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhaddubey" width="40" height="40" margin="10"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&locale=en" alt="farhaddubey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhaddubey&" alt="farhaddubey" /></p>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
