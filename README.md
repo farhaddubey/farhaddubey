@@ -2,7 +2,7 @@
 <h4 align="left">Welcome to my World!</h4>
 
 <h4 align="left">Scripting the Programming World | Passionate about optimized Code with Efficient Algorithms | Insane & Co-operative programmer | Let's build something extraordinary !</h4>
-<p src="https://www.tdilcs.live">🔭 Currently partially engaged with TDIL Consultancy Services</p>
+<p src="https://www.tdilcs.live">🔭 Currently partially engaged with <b>TDIL Consultancy Services<b/></p>
 
 <p>👯 Interested to collaborate on <b>Dynamic Projects in the field of AI, ML, DL, Web Apps & Softwares</b> </p>
 
@@ -12,7 +12,7 @@
 
 <p>📫 Contact me regarding software projects via <b>farhaddubey003@gmail.com</b></p>
 
-<p>⚡ Funny👻 facts👻 about me👻: <b>Flirty, Funny, Friendly, a chocolate Hero, Co - operative, Rude, overall Personality with Creative & Dynamic Attitude</b></p>
+<p>⚡ Funny👻 facts👻 about me👻: <b>Funny, Friendly, Flirty, a chocolate Hero, Co - operative, Rude, overall Personality with Creativity, with multidimensional thought-process, strict projects oriented mindset with creative & Dynamic Attitude</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
