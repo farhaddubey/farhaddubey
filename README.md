@@ -31,6 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhaddubey&show_icons=true&locale=en&layout=compact" alt="farhaddubey" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&locale=en" alt="farhaddubey" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhaddubey&" alt="farhaddubey" /></p>
-
-[aura_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=aura_dark
+<p><img align="center" src=" https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=github-readme-stats&cache_seconds=86400&theme=aura_dark
+" alt="farhaddubey" /></p>
