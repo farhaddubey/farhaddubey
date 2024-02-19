@@ -1,7 +1,7 @@
 <h3 align="left">Hlw Audience!👋, myself Farhad Dubey</h3>
 <h4 align="left">Welcome to my World!</h4>
 
-<h4 align="left">Scripting the Programming World | Passionate about optimized Code with Efficient Algorithms | Insane programmer | Let's build something extraordinary !</h4>
+<h4 align="left">Scripting the Programming World | Passionate about optimized Code with Efficient Algorithms | Insane & Co-operative programmer | Let's build something extraordinary !</h4>
 <p src="https://www.tdilcs.live">🔭 Currently partially engaged with TDIL Consultancy Services</p>
 
 <p>👯 Interested to collaborate on <b>Dynamic Projects in the field of AI, ML, DL, Web Apps & Softwares</b> </p>
