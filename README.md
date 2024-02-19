@@ -89,11 +89,7 @@
 
  <img align="left" height="150em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-
-
-
-<picture>
+  <picture>
 <source
     srcset="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -104,4 +100,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 </picture>
+</div>
+
+
+
+
 
