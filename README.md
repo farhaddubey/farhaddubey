@@ -37,18 +37,18 @@
 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/pW9tHQnl55j4/kotlin-a-cross-platform%2C-statically-typed%2C-general-purpose-programming-language-with-type-inference" alt="kotlin" width="40" height="40"/> </a> 
- <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/t7vIvDXazOGO/rust-programming-language" alt="rust" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/RNH712mJr1qT/go" alt="Go" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./kotlin.svg" alt="kotlin" width="40" height="40"/> </a> 
+ <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="./rust.svg" alt="rust" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./go.png" alt="Go" width="40" height="40"/> </a> 
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./r.png" alt="R" width="40" height="40"/> </a> 
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/7AFcZ2zirX6Y/dart" alt="Dart" width="40" height="40"/> </a> 
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/50139/console" alt="Bash" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/122643/lisp" alt="Lisp" width="40" height="40"/> </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./dart.svg" alt="Dart" width="40" height="40"/> </a> 
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./bash.svg" alt="Bash" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./lisp.svg" alt="Lisp" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./julia.svg" alt="Julia" width="40" height="40"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./MATLAB.png" alt="MATLAB" width="40" height="40"/> </a> 
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./scala.svg" alt="Scala" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
- <img src="" alt="SQL" width="40" height="40"/> </a>       
+ <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>     
 </p>
 <h3 align="left">Frontend Development:</h3>
 <p align="left"> 
