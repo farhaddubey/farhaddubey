@@ -8,7 +8,7 @@
 
 <p>👨‍💻 All, my minor projects are available at <b>https://github.com/farhaddubey/</b></p>
 
-<p>💬 Interested to be consoled about <b>Technology, Innovations, Researches, Programming World etc.</b> </p>
+<p>💬 Interested to be consoled regarding <b>Technology, Innovations, Researches, Programming World etc.</b> </p>
 
 <p>📫 Contact me regarding software projects via <b>farhaddubey003@gmail.com</b></p>
 
