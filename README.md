@@ -101,3 +101,4 @@
   />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhaddubey&show_icons=true&locale=en&layout=compact" alt="farhaddubey" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 </picture>
+![Snake animation](https://github.com/farhaddubey/farhaddubey/blob/output/github-contribution-grid-snake.svg)
