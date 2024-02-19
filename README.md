@@ -61,21 +61,6 @@
 | `github_dark` ![github_dark][github_dark_repo] | `github_dark_dimmed` ![github_dark_dimmed][github_dark_dimmed_repo] | `discord_old_blurple` ![discord_old_blurple][discord_old_blurple_repo] |
 | `aura_dark` ![aura_dark][aura_dark_repo] | `panda` ![panda][panda_repo] | `noctis_minimus` ![noctis_minimus][noctis_minimus_repo] |
 
-[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
-[default_repocard_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default_repocard
-
-[highcontrast_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast
-
-
-[algolia_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=algolia
-
 [chartreuse-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=chartreuse-dark
 
-[city_lights_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=city_lights
 
-[aura_repo]: https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=farhaddubey&cache_seconds=86400&theme=aura
-
-
-[add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
-
-Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D
