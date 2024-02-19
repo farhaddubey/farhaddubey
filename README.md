@@ -90,13 +90,13 @@
 
 
 <picture>
+<img align="left" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=farhaddubey&show_icons=true&locale=en&layout=compact&color=0e75b6" alt="farhaddubey" media="(prefers-color-scheme: dark)"/>
+
+</picture>
+<picture>
 <source
     srcset="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhaddubey&show_icons=true&locale=en&layout=compact" alt="farhaddubey" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-</picture>
-<picture>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhaddubey&show_icons=true&locale=en&layout=compact&color=0e75b6" alt="farhaddubey" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-
 </picture>
