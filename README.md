@@ -12,7 +12,7 @@
 
 <p>📫 Contact me regarding software projects via <b>farhaddubey003@gmail.com</b></p>
 
-<p>⚡ Funny👻 facts👻 about me👻: Funny, Friendly, Flirty, a chocolate Hero, Co - operative, Rude, overall Personality with Creativity, with multidimensional thought-process, strict projects oriented mindset & <b>with creative & Dynamic Attitude</b></p>
+<p>⚡ Funny👻 facts👻 about me👻: Funny, Friendly, Flirty, romeo, a chocolate Hero, Co - operative, Rude, overall Personality with Creativity, with multidimensional thought-process, strict projects oriented mindset & <b>with intellect, creative & Dynamic multidimensional Attitude</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
