@@ -75,7 +75,7 @@
 <h3 align="left">Softwares/App Development:</h3>
 <p align="left"> 
  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./google-play-store-icon.svg" alt="android" width="40" height="40"/> </a>  
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./apple-icon.png" alt="android" width="40" height="40"/> </a> 
+ <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./apple-color.png" alt="android" width="40" height="40"/> </a> 
  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./microsoft-icon.svg" alt="android" width="40" height="40"/> </a>  
  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./kali.svg" alt="android" width="40" height="40"/> </a> 
 
@@ -108,9 +108,9 @@
 <img src="./ils.svg" alt="xd" width="40" height="40"/> 
  <img src="./incopy.svg" alt="xd" width="40" height="40"/> 
    <img src="./indesign.svg" alt="xd" width="40" height="40"/>
-<img src="./xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<img src="./microsoft-word-icon.svg" alt="xd" width="40" height="40"/> </a> </p>
-<img src="./microsoft-excel-icon.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img src="./xd.svg" alt="xd" width="40" height="40"/> </a>
+<img src="./microsoft-word-icon.svg" alt="xd" width="40" height="40"/> </a>
+<img src="./microsoft-excel-icon.svg" alt="xd" width="40" height="40"/> </a>
 <img src="./microsoft-powerpoint-icon.svg" alt="xd" width="40" height="40"/> </a> </p>
 <h3 align="left">Others:</h3>
 <p align="left">
