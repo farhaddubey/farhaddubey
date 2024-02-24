@@ -105,7 +105,7 @@
  <img src="./photoshop.svg" alt="xd" width="40" height="40"/> 
 <img src="./prem.svg" alt="xd" width="40" height="40"/> 
  <img src="./audition.svg" alt="xd" width="40" height="40"/>
- <img src="./ae.svg" alt="xd" width="40" height="40"/>
+ <img src="./ae.svg" alt="ae" width="40" height="40"/>
 <img src="./ils.svg" alt="xd" width="40" height="40"/> 
  <img src="./incopy.svg" alt="xd" width="40" height="40"/> 
    <img src="./indesign.svg" alt="xd" width="40" height="40"/>
