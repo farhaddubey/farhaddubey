@@ -121,7 +121,7 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./kali.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a></p>
    <p align="left"> <a href="https://github.com/farhaddubey?tab=followers">
-     <img align="right" src="https://img.shields.io/github/followers/farhaddubey?label=Followers&style=social" alt="followers-count">
+     <img align="left" src="https://img.shields.io/github/followers/farhaddubey?label=Followers&style=social" alt="followers-count">
   </a></p>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhaddubey&label=Profile%20views&color=0e75b6&style=flat" alt="farhaddubey" /> </p>
 
