@@ -151,6 +151,7 @@
 <p align=left>
   <img src="https://github-profile-trophy.vercel.app/?username=farhaddubey&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
+
 ---
 
 <h3>Github Stats 📊</h3>
@@ -170,7 +171,13 @@
 </div>
 </picture>
 <br>
+
 ---
+
+---
+
+---
+
 </div>
 
 
