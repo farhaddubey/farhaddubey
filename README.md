@@ -15,6 +15,20 @@
 
 <p>⚡ Funny👻 facts👻 about me👻: Funny, Friendly, Flirty, a chocolate Hero, Co - operative, Rude, overall Personality with Creativity, with multidimensional thought-process, strict projects oriented mindset & <b>with intellect, creative & Dynamic multidimensional Attitude</b></p>
 
+
+
+<p align="center">
+  <b><i>Let's connect! & Revolutionize the Future!.</i></b>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/farhaddubey//"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:farhaddubey003@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://t.me/farhaddubey"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhaddubey" height="30" width="40" /></a>
@@ -125,6 +139,15 @@
   </a></p>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhaddubey&label=Profile%20views&color=0e75b6&style=flat" alt="farhaddubey" /> </p>
 
+<h3>Github Streak :fire:</h3>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthnagarkar875&theme=nightowl"></img>
+  </a>
+</p>
+
+---
+
   <div align="center"> 
  
  <img align="left" height="150em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -140,6 +163,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 </picture>
+<br>
+
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=parthnagarkar875&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</p>
 </div>
 
 
