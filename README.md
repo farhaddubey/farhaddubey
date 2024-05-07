@@ -1,4 +1,6 @@
 <!----------------------------------- About Section ------------------------------------>
+  <img align="right" width="150" alt="Coding" src="https://media.licdn.com/dms/image/C4D16AQHgZaiBNSSmxQ/profile-displaybackgroundimage-shrink_350_1400/0/1661502856592?e=1720656000&v=beta&t=nv0kZLftpCwFpeM-HSAQt8QKpfRoSGlwuuL3kqEtdjI">
+
 <h3 align="left">Hlw Audience!👋, myself Farhad Dubey</h3>
 <h4 align="left">Welcome to my World!</h4>
 
@@ -27,7 +29,6 @@
 </p>
 </p>
 
----
 
 
 
