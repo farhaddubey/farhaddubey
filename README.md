@@ -142,12 +142,14 @@
 <h3>Github Streak :fire:</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthnagarkar875&theme=nightowl"></img>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhaddubey&theme=nightowl"></img>
   </a>
 </p>
 
 ---
+---
 
+<h3>Github Stats 📊</h3>
   <div align="center"> 
  
  <img align="left" height="150em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -166,7 +168,7 @@
 <br>
 
 <p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=parthnagarkar875&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=farhaddubey&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 </div>
 
