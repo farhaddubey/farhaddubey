@@ -119,16 +119,13 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./kali.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./kali.svg" alt="git" width="40" height="40"/> </a>
- 
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhaddubey&label=Profile%20views&color=0e75b6&style=flat" alt="farhaddubey" /> </p>
-      <a href="https://github.com/farhaddubey?tab=followers">
+  <p align="right"> <a href="https://github.com/farhaddubey?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/farhaddubey?label=Followers&style=social" alt="followers-count">
-  </a>
+  </a></p>  
   <div align="center"> 
-
-
+ 
  <img align="left" height="150em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=7&theme=algolia"/>
   <picture>
