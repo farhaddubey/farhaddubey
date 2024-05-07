@@ -27,7 +27,6 @@
 </p>
 </p>
 
----
 
 
 
@@ -143,6 +142,9 @@
      <img align="left" src="https://img.shields.io/github/followers/farhaddubey?label=Followers&style=social" alt="followers-count">
   </a></p>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhaddubey&label=Profile%20views&color=0e75b6&style=flat" alt="farhaddubey" /> </p>
+  <a href="https://github.com/farhaddubey">
+    <img src="https://badges.pufler.dev/commits/monthly/farhaddubey?color=blue" />
+    </a>
 
 <h3>Github Streak :fire:</h3>
 <p align="center">
@@ -164,9 +166,6 @@
  
  <img align="left" height="150em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=7&theme=algolia"/>
-  <a href="https://github.com/farhaddubey">
-    <img src="https://badges.pufler.dev/commits/monthly/farhaddubey?color=blue" />
-    </a>
   <picture>
 <source
     srcset="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=dark"
