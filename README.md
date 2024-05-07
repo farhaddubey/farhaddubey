@@ -27,6 +27,7 @@
 </p>
 </p>
 
+---
 
 
 
@@ -142,9 +143,10 @@
      <img align="left" src="https://img.shields.io/github/followers/farhaddubey?label=Followers&style=social" alt="followers-count">
   </a></p>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhaddubey&label=Profile%20views&color=0e75b6&style=flat" alt="farhaddubey" /> </p>
+<p align="left">
   <a href="https://github.com/farhaddubey">
     <img src="https://badges.pufler.dev/commits/monthly/farhaddubey?color=blue" />
-    </a>
+    </a></p>
 
 <h3>Github Streak :fire:</h3>
 <p align="center">
