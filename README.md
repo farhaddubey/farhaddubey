@@ -1,5 +1,4 @@
 <!----------------------------------- About Section ------------------------------------>
-
 <h3 align="left">Hlw Audience!👋, myself Farhad Dubey</h3>
 <h4 align="left">Welcome to my World!</h4>
 
@@ -28,6 +27,7 @@
 </p>
 </p>
 
+---
 
 
 
@@ -147,6 +147,9 @@
   <a href="https://github.com/farhaddubey">
     <img src="https://badges.pufler.dev/commits/monthly/farhaddubey?color=blue" />
     </a></p>
+<p>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{farhaddubey}1212%2Fhit-counter)
+</p>
 
 <h3>Github Streak :fire:</h3>
 <p align="center">
@@ -179,9 +182,15 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 </picture>
-<br>
 
 ---
+<h3>Summary</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhaddubey&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhaddubey&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhaddubey&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhaddubey&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhaddubey&theme=vue)
 
 ---
 
