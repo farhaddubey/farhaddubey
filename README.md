@@ -31,12 +31,27 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in Touch :☕</h3>
 <p align="left">
 <a href="https://linkedin.com/in/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhaddubey" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farhaddubey" width="40" height="40" padding="20"/></a>
 <a href="https://www.leetcode.com/farhaddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhaddubey" width="40" height="40" padding="20"/></a>
+
+
+<a href="https://www.linkedin.com/in/farhaddubey/" target="_blank"><img alt="linkedin | LinkedIn" height="23px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/_farhaddubey" target="_blank"><img alt="twitter | Twitter" height="23px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="https://www.instagram.com/_farhaddubey/ " target="_blank"><img alt="instagram | Instagram" height="23px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ <a href="mailto:farhaddubey437@gmail.com" target="_blank"><img alt="gmail | Gmail" height="23px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.youtube.com/channel/UCZ3bjqNdZsrRacRzSMbzpuQ" target="_blank"><img alt="youtube | Youtube" height="23px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+ <a href="https://leetcode.com/farhaddubey/" target="_blank"><img alt="leetcode | LEETCODE" height="23px" 
+src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
+ 
+
+     
+
+
+
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
