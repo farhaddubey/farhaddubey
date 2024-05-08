@@ -25,8 +25,6 @@
 <a href="mailto:farhaddubey003@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://t.me/farhaddubey"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_farhaddubey" target="_blank"><img alt="twitter | Twitter" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
- <a href="https://www.instagram.com/_farhaddubey/ " target="_blank"><img alt="instagram | Instagram" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
- <a href="mailto:farhaddubey437@gmail.com" target="_blank"><img alt="gmail | Gmail" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
  <a href="https://www.youtube.com/channel/UCZ3bjqNdZsrRacRzSMbzpuQ" target="_blank"><img alt="youtube | Youtube" height="30px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;
  <a href="https://leetcode.com/farhaddubey/" target="_blank"><img alt="leetcode | LEETCODE" height="30px" 
 src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
