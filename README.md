@@ -147,9 +147,8 @@
   <a href="https://github.com/farhaddubey">
     <img src="https://badges.pufler.dev/commits/monthly/farhaddubey?color=blue" />
     </a></p>
-<p>
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{farhaddubey}1212%2Fhit-counter)
-</p>
 
 <h3>Github Streak :fire:</h3>
 <p align="center">
@@ -186,11 +185,16 @@
 ---
 <h3>Summary</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhaddubey&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhaddubey&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhaddubey&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhaddubey&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhaddubey&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhaddubey&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhaddubey&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhaddubey&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhaddubey&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhaddubey&theme=algolia)
+
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
