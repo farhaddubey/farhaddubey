@@ -24,7 +24,6 @@
 <a href="https://www.linkedin.com/in/farhaddubey//"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:farhaddubey003@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://t.me/farhaddubey"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/farhaddubey/" target="_blank"><img alt="linkedin | LinkedIn" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_farhaddubey" target="_blank"><img alt="twitter | Twitter" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/_farhaddubey/ " target="_blank"><img alt="instagram | Instagram" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
  <a href="mailto:farhaddubey437@gmail.com" target="_blank"><img alt="gmail | Gmail" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
@@ -172,6 +171,16 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
 </p>
 
 ---
+<h3>Dimensions :fire:</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhaddubey&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhaddubey&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhaddubey&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhaddubey&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhaddubey&theme=algolia)
+
+
+---
 <h3>Github Batches📊</h3>
 <p align=left>
   <img src="https://github-profile-trophy.vercel.app/?username=farhaddubey&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
@@ -197,14 +206,6 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
 </picture>
 
 ---
-<h3>Summary</h3>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhaddubey&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhaddubey&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhaddubey&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhaddubey&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhaddubey&theme=algolia)
-
 
 
 ---
