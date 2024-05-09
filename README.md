@@ -164,7 +164,7 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
 <h3>Github Streak :fire:</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhaddubey&theme=nightowl"></img>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhaddubey&theme=monokai"></img>
   </a>
 </p>
 
