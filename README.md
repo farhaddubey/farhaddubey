@@ -201,7 +201,7 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=pie)
 ---
 
 
