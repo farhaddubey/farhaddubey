@@ -198,10 +198,10 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
 <h3>Github Stats 📊</h3>
 <div align="flex"> 
  <div align="left">
-    <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=donut-vertical&langs_count=20&theme=algolia"/>
+    <img align="left" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=donut-vertical&langs_count=20&theme=algolia"/>
  </div>
- <div align="left">
-    <img align="center" height="200em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=pie&langs_count=20&theme=algolia"/>
+ <div align="right">
+    <img align="right" height="300em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=pie&langs_count=20&theme=algolia"/>
  </div>
  </div>
 
