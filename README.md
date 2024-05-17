@@ -188,12 +188,8 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
 <h3>Github Stats 📊</h3>
   <div align="block"> 
   <img align="left" height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=20&theme=algolia"/>
-        <img height="150em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="190em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=donut-vertical&langs_count=20&theme=algolia"/>
-    <img height="400em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=pie&langs_count=20&theme=algolia"/>
- <img align="center" height="150em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
+        <img height="170em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="250em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
  </div>
  <br/>
 
@@ -210,6 +206,9 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
 ![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=AI-Kitchen-Helper-using-Django-Langchain-OpenAI&theme=algolia)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=AI-Kitchen-Helper-using-Django-Langchain-OpenAI&theme=algolia)
 </div>
+  <img align="left" height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=20&theme=chartreuse-dark"/>
+   <img align="center" height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=donut-vertical&langs_count=20&theme=midnight-purple"/>
+    <img align="right" height="400em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=pie&langs_count=20&theme=aura"/>
 
 ---
 
