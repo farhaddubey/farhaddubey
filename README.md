@@ -200,6 +200,7 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
  <div align="left">
     <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=donut-vertical&langs_count=20&theme=algolia"/>
     <img height="400em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=pie&langs_count=20&theme=algolia"/>
+    <img height="150em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  </div>
  </div>
 
