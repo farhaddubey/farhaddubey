@@ -22,7 +22,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/farhaddubey//"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:farhaddubey003@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://whatsapp.com/channel/0029VadPrTL5q08ce0zyn63z"><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;          
   <a href="https://whatsapp.com/channel/0029VadPrTL5q08ce0zyn63z"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_farhaddubey" target="_blank"><img alt="twitter | Twitter" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
