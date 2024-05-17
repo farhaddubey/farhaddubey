@@ -190,18 +190,7 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
   <div align="center"> 
  
  <img align="left" height="150em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=20&theme=algolia"/>
-  <picture>
-<source
-    srcset="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhaddubey&show_icons=true&locale=en&layout=compact" alt="farhaddubey" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
- <div align="center"> 
- <img height="150em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-</picture>
+  <img align="center" height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=20&theme=algolia"/>
 
 
 ---
