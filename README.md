@@ -188,8 +188,8 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
 <h3>Github Stats 📊</h3>
   <div align="center"> 
  
- <img align="left" height="300em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="center" height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=20&theme=algolia"/>
+ <img align="left" height="200em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="center" height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=20&theme=algolia"/>
 
 </div>
   <picture>
@@ -202,11 +202,11 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
  <img height="150em" alt = "Farhad Dubey Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhaddubey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-</picture>
 </div>
-<h3>Popular Projects 📊</h3>
-![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=AI-Kitchen-Helper-using-Django-Langchain-OpenAI)
+</picture>
+<h3>Popular Projects ❤️‍🔥</h3>
 
+![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=AI-Kitchen-Helper-using-Django-Langchain-OpenAI)
 
 
 ---
