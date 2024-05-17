@@ -184,7 +184,6 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
 </p>
 
 ---
-![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=AI-Kitchen-Helper-using-Django-Langchain-OpenAI)
 
 <h3>Github Stats 📊</h3>
   <div align="center"> 
@@ -204,6 +203,10 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 </picture>
+</div>
+<h3>Popular Projects 📊</h3>
+![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=AI-Kitchen-Helper-using-Django-Langchain-OpenAI)
+
 
 
 ---
