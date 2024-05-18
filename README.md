@@ -202,11 +202,11 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
 <h3>Popular Projects ❤️‍🔥</h3>
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=AI-Kitchen-Helper-using-Django-Langchain-OpenAI&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=AI-Kitchen-Helper-using-Django-Langchain-OpenAI&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=AI-Kitchen-Helper-using-Django-Langchain-OpenAI&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=AI-Kitchen-Helper-using-Django-Langchain-OpenAI&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=AI-Kitchen-Helper-using-Django-Langchain-OpenAI&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=AI-Kitchen-Helper-using-Django-Langchain-OpenAI&theme=algolia)
+![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=Movie-Recommender-System-using-Machine-Learning-DL&theme=aura)
+![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=Medical-Chatbot-using-LLAMA2&theme=algolia)
+![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=Spring-Boot-Micro-Architecture-of-Job-Company-Reviews&theme=aura)
+![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=Google-Forms-Clone-using-React&theme=algolia)
+![](https://github-readme-stats.vercel.app/api/pin/?username=farhaddubey&repo=Instagram-App-Clone-Development-using-Kotlin&theme=aura)
 </div>
   <img align="left" height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=compact&langs_count=20&theme=chartreuse-dark"/>
    <img align="center" height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaddubey&layout=donut-vertical&langs_count=20&theme=midnight-purple"/>
