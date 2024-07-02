@@ -17,12 +17,8 @@
 
 
 <p align="center">
-  <b><i>Let's connect! & Revolutionize the Future!.</i></b></p>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Audience,+myself+Farhad+Dubey; Let's+Connect!+and+Revolutionize+the+future+!&center=true&size=20">
-  </a>
-</h1>
+  <b><i>Let's connect! & Revolutionize the Future!.</i></b>
+
   
 <p align="center">
 <a href="https://www.linkedin.com/in/farhaddubey//"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
@@ -33,10 +29,14 @@
  <a href="https://leetcode.com/farhaddubey/" target="_blank"><img alt="leetcode | LEETCODE" height="30px" 
 src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
+</p>
 
 
-
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Audience,+myself+Farhad+Dubey; Let's+Connect!+and+Revolutionize+the+future+!&center=true&size=20">
+  </a>
+</h1>
 
 <h3 align="left">Get in Touch:☕</h3>
 <p align="left">
