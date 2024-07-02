@@ -21,7 +21,7 @@
   <b><i>Let's connect! & Revolutionize the Future!.</i></b></p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Dears,+ Let's,+Connect!;Let's,+Connect!+and+Revolutionize+the+future+!+.&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Dears,+ Let's,+Connect!;Let's,+Connect!+and+Revolutionize+the+future+!;&center=true&size=30">
   </a>
 </h1>
   
