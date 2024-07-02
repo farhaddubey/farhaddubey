@@ -32,8 +32,10 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
 </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Dears,;Let's,+Connect!;&+Revolutanize+the+future.&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Dears,;Let's,+Connect!;Let's,+Connect!+&amp;+Revolutionize+the+future+!.&center=true&size=30">
   </a>
+
+
 </h1>
 
 
