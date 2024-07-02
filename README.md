@@ -18,8 +18,6 @@
 
 <p align="center">
   <b><i>Let's connect! & Revolutionize the Future!.</i></b>
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Hlw+Audience!%F0%9F%91%8B%2C+myself+Farhad+Dubey;Founder%2C+CEO+tdilcs%2C+WikiGalaxy%2C+KnightsLife%2C+%26+KIBCSET;Let's+connect!+%26+Revolutionize+the+Future!." alt="Typing SVG" /></a>
 <p align="center">
 <a href="https://www.linkedin.com/in/farhaddubey//"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://whatsapp.com/channel/0029VadPrTL5q08ce0zyn63z"><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;          
@@ -30,7 +28,7 @@
 src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 </p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&random=false&width=500&lines=Hlw+Audience!%F0%9F%91%8B%2C+myself+Farhad+Dubey;Founder%2C+CEO+tdilcs%2C+WikiGalaxy%2C+KnightsLife%2C;Chancellor+KIBCSET+(Knights+International+;Board+%26+Council+of+Skills%2C+Excellence+%26+Talent;Chairman+TDIL+%26+Knights+Technologies+Innovations+Limited;Let's+connect!+%26+Revolutionize+the+Future!." alt="Typing SVG" /></a>
 
 <h3 align="left">Get in Touch:☕</h3>
 <p align="left">
