@@ -3,7 +3,7 @@
 <h4 align="left">Welcome to my World!</h4>
 
 <h4 align="left">Scripting the Programming World | Passionate about optimized Code with Efficient Algorithms | Insane & Co-operative programmer | Let's build something extraordinary !</h4>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&random=false&width=800&lines=Hlw+Audience!%F0%9F%91%8B%2C+myself+Farhad+Dubey;Founder%2C+CEO+tdilcs%2C+WikiGalaxy%2C+KnightsLife%2C+TDIL;Chancellor+KIBCSET+(Knights+International+Board+%26+Council+of+Skills%2C+Excellence+%26+Talent);Let's+connect!+%26+Revolutionize+the+Future!." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&random=false&width=820&lines=Hlw+Audience!%F0%9F%91%8B%2C+myself+Farhad+Dubey;Founder%2C+CEO+tdilcs%2C+WikiGalaxy%2C+KnightsLife%2C+KIBCSET%2C+TDIL;Chancellor+Knights+International+Board+%26+Council+of+Skills%2C+Excellence+%26+Talent;Chairman+TDIL+%26+Knights+Innovations+Technologies+Limited;Let's+connect!+%26+Revolutionize+the+Future!." alt="Typing SVG" /></a>
 <p src="https://www.tdilcs.live">🔭 Currently partially engaged with <b>TDIL Consultancy Services<b/></p>
 
 <p>👯 Interested to collaborate on <b>Dynamic Projects in the field of AI, ML, DL, Web Apps & Softwares</b> </p>
