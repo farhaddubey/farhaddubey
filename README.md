@@ -16,12 +16,11 @@
 <p>⚡ Funny👻 facts👻 about me👻: Funny, Friendly, Flirty, a chocolate Hero, Co - operative, Rude, overall Personality with Creativity, with multidimensional thought-process, strict projects oriented mindset & <b>with intellect, creative & Dynamic multidimensional Attitude</b></p>
 
 
-
 <p align="center">
   <b><i>Let's connect! & Revolutionize the Future!.</i></b></p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Dears,+ Let's,+Connect!;Let's,+Connect!+and+Revolutionize+the+future+!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Audience,+myself+Farhad+Dubey; Let's+Connect!+and+Revolutionize+the+future+!&center=true&size=20">
   </a>
 </h1>
   
