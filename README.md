@@ -23,8 +23,8 @@
 <a href="https://www.linkedin.com/in/farhaddubey//"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://whatsapp.com/channel/0029VadPrTL5q08ce0zyn63z"><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;          
   <a href="https://whatsapp.com/channel/0029VadPrTL5q08ce0zyn63z"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_farhaddubey" target="_blank"><img alt="twitter | Twitter" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
- <a href="https://www.youtube.com/channel/UCZ3bjqNdZsrRacRzSMbzpuQ" target="_blank"><img alt="youtube | Youtube" height="30px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/farhaddubey" target="_blank"><img alt="twitter | Twitter" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
+ <a href="https://www.youtube.com/@farhaddubey" target="_blank"><img alt="youtube | Youtube" height="30px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;
  <a href="https://leetcode.com/farhaddubey/" target="_blank"><img alt="leetcode | LEETCODE" height="30px" 
 src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
