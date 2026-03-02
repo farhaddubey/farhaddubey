@@ -1,24 +1,60 @@
 <!----------------------------------- About Section ------------------------------------>
-<h3 align="left">Hlw Audience!👋, myself Farhad Dubey</h3>
-<h4 align="left">Welcome to my World!</h4>
+<!----------------------------------- About Section ------------------------------------>
 
-<h4 align="left">Scripting the Programming World | Passionate about optimized Code with Efficient Algorithms | Insane & Co-operative programmer | Let's build something extraordinary !</h4>
-<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&random=false&width=820&lines=Hlw+Audience!%F0%9F%91%8B%2C+myself+Farhad+Dubey;Founder%2C+CEO+tdilcs%2C+WikiGalaxy%2C+KnightsLife%2C+KIBCSET%2C+TDIL;Chancellor+Knights+International+Board+%26+Council+of+Skills%2C+Excellence+%26+Talent;Chairman+TDIL+%26+Knights+Innovations+Technologies+Limited;Let's+connect!+%26+Revolutionize+the+Future!." alt="Typing SVG" /></a>
-<p src="https://www.tdilcs.live">🔭 Currently partially engaged with <b>TDIL Consultancy Services<b/></p>
+<h2 align="left">Farhad Dubey</h2>
 
-<p>👯 Interested to collaborate on <b>Dynamic Projects in the field of AI, ML, DL, Web Apps & Softwares</b> </p>
+<p>
+Software Engineer specializing in scalable backend systems, distributed services, and production-grade platforms.  
+Focused on building reliable, high-performance software that solves real-world problems at scale.
+</p>
 
-<p>👨‍💻 All, my minor projects are available at <b>https://github.com/farhaddubey/</b></p>
+<p>
+Founder @ <b>AlgoGalaxy</b> — architecting end-to-end learning platforms and digital ecosystems.  
+Experienced in designing data-intensive applications, high-throughput APIs, and cloud-native architectures.
+</p>
 
-<p>💬 Interested to be consoled regarding <b>Technology, Innovations, Researches, Programming World etc.</b> </p>
+<a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&width=820&lines=Backend+%26+Distributed+Systems+Engineer;Scalable+Systems+%7C+Microservices+%7C+Cloud+Architecture;Java+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+System+Design;Building+Production-Ready+Software+Platforms;Transforming+Complex+Ideas+into+Reliable+Products" alt="Typing SVG" />
+</a>
 
-<p>📫 Contact me regarding software projects via <b>ln/farhaddubey/</b></p>
+---
 
-<p>⚡ Funny👻 facts👻 about me👻: Funny, Friendly, Flirty, a chocolate Hero, Co - operative, Rude, overall Personality with Creativity, with multidimensional thought-process, strict projects oriented mindset & <b>with intellect, creative & Dynamic multidimensional Attitude</b></p>
+### 🚀 Current Focus
+Designing and building scalable web platforms, backend services, and automation systems for real-world applications.
 
+### 🧠 Core Expertise
+• Backend Engineering & API Design  
+• Distributed Systems & Microservices  
+• Database Design & Optimization  
+• Cloud-Native Architecture  
+• System Design & Performance Engineering  
+• Data Structures & Algorithms  
+
+### 🛠️ Technology Stack
+<b>Languages:</b> Java • JavaScript • TypeScript • C++ • Python • Dart • Kotlin  
+<b>Backend:</b> Node.js • Spring Boot • Express • REST APIs • Microservices  
+<b>Frontend:</b> React • Next.js • Material UI  
+<b>Databases:</b> PostgreSQL • MySQL • MongoDB • Firebase  
+<b>Cloud & DevOps:</b> Docker • CI/CD • Nginx • Cloud Platforms  
+<b>Tools:</b> Git • Postman • Linux • System Design Practices  
+
+### 🤝 Collaboration
+Open to collaborating on impactful engineering projects, scalable startups, and complex system design challenges.
+
+### 📂 Projects
+Explore production-grade applications, experiments, and learning projects:  
+👉 <b>https://github.com/farhaddubey</b>
+
+### 📫 Contact
+LinkedIn: <b>https://www.linkedin.com/in/farhad-dubey-748b441b7</b>  
+LeetCode: <b>https://leetcode.com/farhaddubey/</b>
+
+---
 
 <p align="center">
-  <b><i>Let's connect! & Revolutionize the Future!.</i></b>
+<b><i>Building scalable systems engineered for reliability, performance, and real-world impact.</i></b>
+</p>
+  
 <p align="center">
 <a href="https://www.linkedin.com/in/farhaddubey//"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;        
 <a href="https://wikigalaxy.in"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
