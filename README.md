@@ -4,7 +4,7 @@
 
 ### Backend Engineer • Distributed Systems • AI Infrastructure
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Architectures;Distributed+Systems+%7C+Microservices+%7C+Cloud+Engineering;AI+Infrastructure+%7C+LLMs+%7C+Event-Driven+Systems;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Redis+%7C+PostgreSQL;Engineering+Production-Grade+Software+Platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Backend+Architectures;Distributed+Systems+%7C+Event-Driven+Microservices;AI+Infrastructure+%7C+Cloud-Native+Systems;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Redis+%7C+PostgreSQL;750%2B+LeetCode+Problems+Solved+%7C+System+Design+Focused" alt="Typing SVG" />
 
 </div>
 
@@ -17,16 +17,60 @@
 </div>
 
 <p align="center">
-Software Engineer specializing in scalable backend systems, distributed architecture, AI-powered infrastructure, and cloud-native platforms.
+Software Engineer specializing in scalable backend systems, distributed architecture, AI-powered infrastructure, and cloud-native engineering.
 </p>
 
 <p align="center">
-Focused on designing fault-tolerant, low-latency, high-throughput systems engineered for real-world scale and production reliability.
+Focused on building fault-tolerant, high-throughput systems engineered for scalability, resiliency, and real-world production environments.
 </p>
 
 ---
 
-## ⚔️ Core Expertise
+## ⚔️ Engineering Philosophy
+
+```txt id="w82jda"
+→ Engineer systems that scale
+→ Design architectures that survive failure
+→ Build software optimized for performance & reliability
+→ Use strong algorithmic thinking to solve complex real-world problems
+```
+
+---
+
+## 🧠 Algorithmic & Problem Solving Strength
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/farhaddubeyofficial?theme=dark&font=Nunito&ext=heatmap" />
+
+</div>
+
+<div align="center">
+
+| Problem Solving                     | Engineering Foundation          |
+| ----------------------------------- | ------------------------------- |
+| 🔥 750+ LeetCode Problems Solved    | ⚡ Strong DSA & System Design    |
+| 🧠 Advanced Algorithmic Thinking    | 🚀 Backend Optimization         |
+| ⚔️ Data Structures & Concurrency    | 🏗 Distributed Systems Mindset  |
+| 📈 Consistent Daily Problem Solving | 💡 Production Engineering Focus |
+
+</div>
+
+---
+
+## 🌌 Mission
+
+<p align="center">
+Building scalable digital ecosystems through backend engineering, distributed systems, AI infrastructure, and future-focused technology platforms.
+</p>
+
+<p align="center">
+Founder of <b>AlgoGalaxy</b> & <b>Knights Nexus Global</b> — engineering platforms designed for long-term technological impact.
+</p>
+
+---
+
+## ⚡ Core Expertise
 
 <table align="center">
 <tr>
@@ -34,8 +78,8 @@ Focused on designing fault-tolerant, low-latency, high-throughput systems engine
 
 ### Backend Engineering
 
-REST APIs
 Spring Boot
+REST APIs
 Node.js
 Concurrency
 Performance Optimization
@@ -48,8 +92,8 @@ Performance Optimization
 
 Kafka
 Microservices
-Event-Driven Architecture
-Redis Caching
+Redis
+Event-Driven Systems
 System Design
 
 </td>
@@ -74,13 +118,13 @@ Scalable AI Systems
 
 <div align="center">
 
-| Achievement                       | Impact                            |
-| --------------------------------- | --------------------------------- |
-| ⚡ Built scalable backend systems  | ~5K concurrent requests           |
-| 🚀 Optimized distributed services | Reduced latency by ~25%           |
-| 🧠 Integrated AI/LLM workflows    | ~100 req/sec with fault tolerance |
-| 🔥 Solved LeetCode Problems       | 750+                              |
-| 🏗 Designed event-driven systems  | Kafka + Redis + Microservices     |
+| Achievement                           | Impact                        |
+| ------------------------------------- | ----------------------------- |
+| ⚡ Built scalable backend systems      | ~5K concurrent requests       |
+| 🚀 Designed distributed architectures | Kafka + Redis + Microservices |
+| 🧠 Integrated AI/LLM systems          | Fault-tolerant workflows      |
+| 🔥 Solved 750+ LeetCode problems      | Strong algorithmic foundation |
+| 🏗 Built production-grade platforms   | Cloud-native engineering      |
 
 </div>
 
@@ -96,15 +140,11 @@ Scalable AI Systems
 
 ### Backend & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka,redis,postgres,mongodb,mysql" />
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,git" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,kafka,redis,postgres,mongodb,docker,kubernetes" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
 ### AI / ML
 
@@ -114,38 +154,21 @@ Scalable AI Systems
 
 ---
 
-## 🌌 Current Focus
-
-```txt
-→ Distributed Systems Engineering
-→ Scalable Backend Architectures
-→ Event-Driven Microservices
-→ AI Infrastructure Platforms
-→ Cloud-Native Systems
-→ High-Performance Engineering
-```
-
----
-
-## 📂 Featured Engineering Domains
+## 🌍 Platforms & Networks
 
 <div align="center">
 
-| Domain                   | Focus                       |
-| ------------------------ | --------------------------- |
-| Backend Systems          | Scalable APIs & Services    |
-| Distributed Architecture | Fault-Tolerant Systems      |
-| AI Infrastructure        | LLM & RAG Platforms         |
-| FullStack Platforms      | Production Web Applications |
-| System Design            | Scalability & Reliability   |
+<a href="https://www.algogalaxy.in/">
+<img src="https://img.shields.io/badge/AlgoGalaxy-111827?style=for-the-badge"/>
+</a>
 
-</div>
+<a href="https://knightsnexus.com/">
+<img src="https://img.shields.io/badge/Knights%20Nexus%20Global-0F172A?style=for-the-badge"/>
+</a>
 
----
-
-## 🌍 Connect With Me
-
-<div align="center">
+<a href="https://leetcode.com/u/farhaddubeyofficial/">
+<img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
 
 <a href="https://github.com/farhaddubey">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -155,20 +178,12 @@ Scalable AI Systems
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/farhaddubey/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-</a>
-
-<a href="https://www.wikigalaxy.in">
-<img src="https://img.shields.io/badge/WikiGalaxy-0A0A0A?style=for-the-badge"/>
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-### ⚡ Engineering systems built for scale, resiliency, and real-world impact.
+### ⚡ Engineering scalable systems powered by strong problem-solving foundations.
 
 </div>
