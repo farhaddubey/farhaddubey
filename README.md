@@ -49,7 +49,7 @@ Focused on building fault-tolerant, low-latency, high-throughput platforms engin
 Strong foundation in Data Structures, Algorithms, Concurrency, Distributed Systems, and Backend Architecture powering scalable engineering systems.
 </p>
 
-<div align="center">
+<div>
 
 ### ⚔️ Competitive Programming & Contest Engineering
 
