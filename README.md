@@ -49,19 +49,36 @@ Focused on building fault-tolerant, low-latency, high-throughput platforms engin
 Strong foundation in Data Structures, Algorithms, Concurrency, Distributed Systems, and Backend Architecture powering scalable engineering systems.
 </p>
 
-<div>
+<table width="100%">
+<tr>
+<td align="center">
 
-### ⚔️ Competitive Programming & Contest Engineering
+## ⚔️ Competitive Programming & Contest Engineering
 
-<img src="https://leetcard.jacoblin.cool/farhaddubeyofficial?theme=dark&font=Nunito&ext=contest" />
+<img 
+src="https://leetcard.jacoblin.cool/farhaddubeyofficial?theme=dark&font=Nunito&ext=contest" 
+width="100%" 
+alt="LeetCode Contest Profile"
+/>
 
-<br/>
+</td>
+</tr>
 
-### 🔥 Consistent DSA Practice & Algorithmic Mastery
+<tr>
+<td align="center">
 
-<img src="https://leetcard.jacoblin.cool/farhaddubey?theme=dark&font=Nunito&ext=heatmap" />
+## 🔥 Consistent DSA Practice & Algorithmic Mastery
 
-</div>
+<img 
+src="https://leetcard.jacoblin.cool/farhaddubey?theme=dark&font=Nunito&ext=heatmap" 
+width="100%" 
+alt="LeetCode Practice Profile"
+/>
+
+</td>
+</tr>
+</table>
+
 
 <br/>
 
