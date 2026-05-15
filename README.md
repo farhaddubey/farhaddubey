@@ -248,10 +248,6 @@ Cloud Platforms
 <img src="https://img.shields.io/badge/LeetCode_DSA_Profile-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
 
-<a href="https://github.com/farhaddubey">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/farhad-dubey-748b441b7">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
