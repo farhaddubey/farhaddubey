@@ -42,6 +42,7 @@ Focused on building fault-tolerant, high-throughput systems engineered for scala
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/farhaddubeyofficial?theme=dark&font=Nunito&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/farhaddubey?theme=dark&font=Nunito&ext=heatmap" />
 
 </div>
 
