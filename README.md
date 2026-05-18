@@ -208,7 +208,7 @@ Cloud Platforms
 
 ### Frontend & FullStack Platforms
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
 <br/>
 
