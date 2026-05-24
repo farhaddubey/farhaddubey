@@ -4,7 +4,24 @@
 
 ### Backend Engineer • Distributed Systems • AI Infrastructure • FullStack Platforms
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=1100&lines=Engineering+Scalable+Backend+Architectures;Distributed+Systems+%7C+Event-Driven+Microservices;AI+Infrastructure+%7C+Cloud-Native+Platforms;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Redis+%7C+PostgreSQL;FullStack+Engineering+%7C+Mobile+Platforms+%7C+System+Design;750%2B+LeetCode+Problems+Solved+%7C+Algorithmic+Engineering" alt="Typing SVG" />
+<p align="center">
+  <picture>
+
+    <!-- Mobile version -->
+    <source
+      media="(max-width: 768px)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=420&lines=Scalable+Backend+Architectures;Distributed+Systems+%7C+Microservices;Java+%7C+Spring+Boot+%7C+Kafka;AI+Infrastructure+%7C+Cloud;750%2B+LeetCode+Problems"
+    />
+
+    <!-- Desktop / large screen -->
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=1100&lines=Engineering+Scalable+Backend+Architectures;Distributed+Systems+%7C+Event-Driven+Microservices;AI+Infrastructure+%7C+Cloud-Native+Platforms;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Redis+%7C+PostgreSQL;FullStack+Engineering+%7C+Mobile+Platforms+%7C+System+Design;750%2B+LeetCode+Problems+Solved+%7C+Algorithmic+Engineering"
+      alt="Typing SVG"
+      width="100%"
+    />
+
+  </picture>
+</p>
 
 </div>
 
