@@ -98,7 +98,7 @@ alt="LeetCode Practice Profile"
 
 | Engineering Discipline     | Strength                         |
 | -------------------------- | -------------------------------- |
-| ⚡ Problem Solving          | 750+ LeetCode Problems           |
+| ⚡ Problem Solving          | 950+ LeetCode Problems           |
 | 🧠 Algorithms & DSA        | Advanced Pattern Recognition     |
 | 🚀 Backend Optimization    | Low-Latency Engineering          |
 | ⚔️ Competitive Thinking    | Contest Participation            |
