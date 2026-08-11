@@ -12,7 +12,7 @@
     />
     <!-- Desktop / large screen -->
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=1100&lines=Engineering+Scalable+Backend+Architectures;Distributed+Systems+%7C+Event-Driven+Microservices;AI+Infrastructure+%7C+Cloud-Native+Platforms;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Redis+%7C+PostgreSQL;FullStack+Engineering+%7C+Mobile+Platforms+%7C+System+Design;750%2B+LeetCode+Problems+Solved+%7C+Algorithmic+Engineering"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=1100&lines=Engineering+Scalable+Backend+Architectures;Distributed+Systems+%7C+Event-Driven+Microservices;AI+Infrastructure+%7C+Cloud-Native+Platforms;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Redis+%7C+PostgreSQL;FullStack+Engineering+%7C+Mobile+Platforms+%7C+System+Design;1050%2B+LeetCode+Problems+Solved+%7C+Algorithmic+Engineering"
       alt="Typing SVG"
       width="100%"
     />
@@ -98,7 +98,7 @@ alt="LeetCode Practice Profile"
 
 | Engineering Discipline     | Strength                         |
 | -------------------------- | -------------------------------- |
-| ⚡ Problem Solving          | 950+ LeetCode Problems           |
+| ⚡ Problem Solving          | 1050+ LeetCode Problems           |
 | 🧠 Algorithms & DSA        | Advanced Pattern Recognition     |
 | 🚀 Backend Optimization    | Low-Latency Engineering          |
 | ⚔️ Competitive Thinking    | Contest Participation            |
