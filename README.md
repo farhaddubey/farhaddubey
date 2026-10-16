@@ -1,305 +1,136 @@
+
 <div align="center">
 
-# ⚡ Farhad Dubey
+# Farhad Dubey
 
-### Backend Engineer • Distributed Systems • AI Infrastructure • FullStack Platforms
+### Software Engineer | Java Backend | Distributed Systems
 
-<p align="center">
-    <!-- Mobile version -->
-    <source
-      media="(max-width: 768px)"
-      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=300&pause=1000&color=00C2FF&center=true&vCenter=true&width=420&lines=Scalable+Backend+Architectures;Distributed+Systems+%7C+Microservices;Java+%7C+Spring+Boot+%7C+Kafka;AI+Infrastructure+%7C+Cloud;750%2B+LeetCode+Problems"
-    />
-    <!-- Desktop / large screen -->
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=1100&lines=Engineering+Scalable+Backend+Architectures;Distributed+Systems+%7C+Event-Driven+Microservices;AI+Infrastructure+%7C+Cloud-Native+Platforms;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Redis+%7C+PostgreSQL;FullStack+Engineering+%7C+Mobile+Platforms+%7C+System+Design;1050%2B+LeetCode+Problems+Solved+%7C+Algorithmic+Engineering"
-      alt="Typing SVG"
-      width="100%"
-    />
-</p>
+**Java • Spring Boot • PostgreSQL • Redis • Kafka • Docker • Kubernetes**
+
+Building reliable backend services, REST APIs, and full-stack applications with an emphasis on clean architecture, performance, and maintainability.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhad-dubey-748b441b7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1050%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/farhaddubeyofficial/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farhaddubey)
+[![Portfolio](https://img.shields.io/badge/AlgoGalaxy-Visit_Platform-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)](https://www.algogalaxy.in/)
 
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-### 🚀 Engineering Identity
+I'm a software engineer focused on **Java backend development, distributed systems, and cloud-native applications**.
 
-</div>
+My engineering work includes REST API design, authentication and authorization, relational databases, caching, transaction management, and asynchronous processing.
 
-<p align="center">
-Software Engineer specializing in scalable backend systems, distributed architecture, AI-powered infrastructure, and cloud-native engineering.
-</p>
+I enjoy solving complex problems, understanding system behavior, and building maintainable software using sound engineering principles.
 
-<p align="center">
-Focused on building fault-tolerant, low-latency, high-throughput platforms engineered for scalability, resiliency, maintainability, and real-world production environments.
-</p>
-
----
-
-# ⚔️ Engineering Philosophy
-
-<div align="center">
-
-```txt
-→ Engineer systems that scale under real-world traffic
-→ Design architectures resilient to failures & bottlenecks
-→ Build software optimized for performance, reliability & maintainability
-→ Apply strong algorithmic thinking to solve complex engineering problems
-→ Focus on production-grade architecture over temporary solutions
-→ Continuously evolve through disciplined engineering & system design
-```
-
-</div>
+- **Backend:** Java, Spring Boot, Spring Security, Hibernate/JPA, REST APIs
+- **Systems:** PostgreSQL, Redis, Kafka, Microservices
+- **Infrastructure:** Docker, Kubernetes, AWS, GCP, CI/CD
+- **Additional:** Python, TypeScript, React, Next.js
+- **Problem Solving:** 1050+ LeetCode problems solved
+- **Interests:** Backend Architecture, Concurrency, Distributed Systems, System Design
 
 ---
 
-# 🧠 Algorithmic Engineering & Problem Solving
+## Featured Engineering Projects
 
-<p align="center">
-Strong foundation in Data Structures, Algorithms, Concurrency, Distributed Systems, and Backend Architecture powering scalable engineering systems.
-</p>
+### 1. Enterprise Inventory & Order Management
 
-<table width="100%">
-<tr>
-<td align="center">
+**Java • Spring Boot • PostgreSQL • Redis • Kafka**
 
-## ⚔️ Competitive Programming & Contest Engineering
+Backend application exploring enterprise inventory and order-processing workflows.
 
-<img 
-src="https://leetcard.jacoblin.cool/farhaddubeyofficial?theme=dark&font=Nunito&ext=contest" 
-width="100%" 
-alt="LeetCode Contest Profile"
-/>
+- REST API development and layered architecture
+- Transaction management and database consistency
+- Inventory updates and concurrency control
+- Redis caching and Kafka-based event processing
+- JWT authentication and role-based authorization
 
-</td>
-</tr>
+**Engineering focus:** Transaction correctness, service-layer design, and reliable order processing.
 
-<tr>
-<td align="center">
+### 2. MovieDB — Enterprise Backend
 
-## 🔥 Consistent DSA Practice & Algorithmic Mastery
+**Java • Spring Boot • PostgreSQL • Spring Security**
 
-<img 
-src="https://leetcard.jacoblin.cool/farhaddubey?theme=dark&font=Nunito&ext=heatmap" 
-width="100%" 
-alt="LeetCode Practice Profile"
-/>
+Movie platform backend implementing domain-driven application workflows.
 
-</td>
-</tr>
-</table>
+- Movie catalog and search APIs
+- User authentication and authorization
+- Reviews, ratings, and watchlist management
+- Persistence using Spring Data JPA
+- API validation and exception handling
 
+**Engineering focus:** REST API design, data modeling, security, and maintainable backend architecture.
 
-<br/>
+### 3. AlgoGalaxy — Engineering & Learning Platform
+
+**Spring Boot • Next.js • PostgreSQL • Redis • AI Integration**
+
+A software engineering and learning platform combining backend services, interactive applications, and AI-powered functionality.
+
+- Backend API development
+- Authentication and access control
+- Database-backed application workflows
+- Redis-based caching
+- Integration with AI services
+
+**Live Platform:** https://www.algogalaxy.in/
+
+**Engineering focus:** Full-stack integration, backend services, and application architecture.
+
+---
+
+## Algorithmic Problem Solving
 
 <div align="center">
 
-| Engineering Discipline     | Strength                         |
-| -------------------------- | -------------------------------- |
-| ⚡ Problem Solving          | 1050+ LeetCode Problems           |
-| 🧠 Algorithms & DSA        | Advanced Pattern Recognition     |
-| 🚀 Backend Optimization    | Low-Latency Engineering          |
-| ⚔️ Competitive Thinking    | Contest Participation            |
-| 🏗 System Design           | Scalable Architecture Mindset    |
-| 🔥 Engineering Consistency | Daily Problem Solving Discipline |
+**1050+ LeetCode Problems Solved**
+
+Practicing data structures, algorithms, optimization, and implementation techniques.
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/farhaddubey?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/farhaddubey/)
+
+[LeetCode Contest Profile](https://leetcode.com/u/farhaddubeyofficial/)
 
 </div>
 
 ---
 
-# 🌌 Mission
+## Technology Stack
 
-<p align="center">
-Building scalable technology ecosystems combining backend engineering, distributed systems, AI infrastructure, cloud-native platforms, mobile applications, and future-focused digital products.
-</p>
-
-<p align="center">
-Founder of <b>AlgoGalaxy</b> & <b>Knights Nexus Global</b> — engineering platforms focused on long-term technological innovation, scalable architecture, and intelligent systems.
-</p>
-
----
-
-# 📈 Engineering Highlights
-
-<div align="center">
-
-| Achievement                           | Engineering Impact                        |
-| ------------------------------------- | ----------------------------------------- |
-| ⚡ Built scalable backend systems      | ~5K concurrent requests                   |
-| 🚀 Designed distributed architectures | Kafka + Redis + Microservices             |
-| 🧠 Integrated AI/LLM systems          | Fault-tolerant intelligent workflows      |
-| 🔥 Solved 750+ LeetCode problems      | Strong algorithmic engineering foundation |
-| 🏗 Built production-grade platforms   | Cloud-native engineering systems          |
-| 📱 Developed mobile applications      | Flutter & Kotlin based platforms          |
-| 🌍 Built full-stack ecosystems        | Backend + Frontend + Infrastructure       |
-| ⚔️ Designed scalable APIs             | Low-latency production services           |
-
-</div>
+| Area | Technologies |
+|---|---|
+| Languages | Java, Python, JavaScript, TypeScript, C++ |
+| Backend | Spring Boot, Spring Security, Hibernate/JPA, REST APIs |
+| Databases | PostgreSQL, MySQL |
+| Distributed Systems | Kafka, Redis, Microservices |
+| Cloud & DevOps | Docker, Kubernetes, AWS, GCP, GitHub Actions |
+| Frontend | React, Next.js |
+| Engineering | DSA, OOP, Concurrency, System Design |
 
 ---
 
-# ⚡ Core Expertise
+## Current Engineering Focus
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### Backend Engineering
-
-Spring Boot
-REST APIs
-Node.js
-Concurrency
-Performance Optimization
-
-</td>
-
-<td align="center" width="25%">
-
-### Distributed Systems
-
-Kafka
-Microservices
-Redis
-Event-Driven Systems
-System Design
-
-</td>
-
-<td align="center" width="25%">
-
-### AI Infrastructure
-
-LLM Integration
-RAG Pipelines
-AI Agents
-LangChain
-Scalable AI Systems
-
-</td>
-
-<td align="center" width="25%">
-
-### Mobile & FullStack
-
-Flutter
-Kotlin
-React.js
-Next.js
-Cloud Platforms
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠 Technology Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,dart,kotlin,go" />
-
-<br/>
-
-### Backend & Distributed Infrastructure
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka,redis,postgres,mongodb,mysql" />
-
-<br/>
-
-### Cloud • DevOps • System Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,git" />
-
-<br/>
-
-### Frontend & FullStack Platforms
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-
-<br/>
-
-### AI / ML Engineering
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-<br/>
-
-### Mobile Application Development
-
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,firebase" />
-
-</div>
-
----
-
-# 🚀 Current Engineering Focus
-
-<div align="center">
-
-```txt
-→ Distributed Systems Engineering
-→ Event-Driven Architectures
-→ AI Infrastructure Platforms
-→ Scalable Backend Systems
-→ Cloud-Native Engineering
-→ System Design & Reliability
-→ Performance Optimization
-→ High-Throughput APIs
-```
-
-</div>
-
----
-
-# 🌍 Platforms & Networks
-
-<div align="center">
-
-<a href="https://www.algogalaxy.in/">
-<img src="https://img.shields.io/badge/AlgoGalaxy-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://knightsnexus.com/">
-<img src="https://img.shields.io/badge/Knights%20Nexus%20Global-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/farhaddubeyofficial/">
-<img src="https://img.shields.io/badge/LeetCode_Contest_Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/in/farhad-dubey-748b441b7">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@farhaddubey">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/farhaddubey">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Farhad_Dubey">
-<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://github.com/farhaddubey">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
+- Advanced Java and Spring Boot engineering
+- Concurrent programming and transaction processing
+- Distributed systems and event-driven architecture
+- Backend testing and reliability engineering
+- Database optimization and caching strategies
+- Data structures, algorithms, and technical interviews
 
 ---
 
 <div align="center">
 
-### ⚡ Engineering scalable systems powered by strong algorithmic thinking, resilient architectures, and production-grade system design.
+**Building reliable software. Solving difficult problems. Improving through consistent engineering practice.**
+
+[GitHub](https://github.com/farhaddubey) •
+[LinkedIn](https://www.linkedin.com/in/farhad-dubey-748b441b7) •
+[AlgoGalaxy](https://www.algogalaxy.in/) •
+[LeetCode](https://leetcode.com/u/farhaddubeyofficial/)
 
 </div>
